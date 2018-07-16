@@ -20,11 +20,11 @@ class show_window(QWidget):
         self.setFixedSize(480,550)
         self.setWindowTitle('扑克牌分类')
 
-        titleLabel = QLabel("机器学习期末项目——扑克牌分类",self)
+        titleLabel = QLabel("Poker Hand —— 扑克牌分类",self)
         titleLabel.setFont(QFont("Roman times",15 ,QFont.Bold))
         titleLabel.move(50, 50)
-        authorLabel = QLabel("作者：黄炳坚",self)
-        authorLabel.move(350, 100)
+        authorLabel = QLabel("作者：笔尖/bj ",self)
+        authorLabel.move(300, 100)
 
         rank = ['   A','   2','   3','   4','   5','   6','   7','   8','   9','   10','   J','   Q','   K']
         suit = ['   红心(1)','   黑桃(2)','   方片(3)','   梅花(4)']

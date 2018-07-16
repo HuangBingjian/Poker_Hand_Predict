@@ -16,13 +16,9 @@ UCI Poker Hand Dataset 扑克牌分类预测，实现99.96%的正确率
 
 运行结果如下
 
-评估结果：
+QT UI界面：
 
-![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/eval_result.png)
-
-测试结果：
-
-![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/test_result.png)
+![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/UI.png)
 
 损失loss与训练步数的关系：
 
@@ -30,6 +26,10 @@ UCI Poker Hand Dataset 扑克牌分类预测，实现99.96%的正确率
 
 ![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/train_loss.png)
 
-QT UI界面：
+评估结果：
 
-![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/UI.png)
+![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/eval_result.png)
+
+测试结果：
+
+![image](https://github.com/HuangBingjian/Poker_Hand_Predict/blob/master/result/test_result.png)
